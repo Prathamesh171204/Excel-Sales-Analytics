@@ -4,7 +4,9 @@
     **1.** Create a _[ loan repayment report](https://github.com/Prathamesh171204/Excel-Sales-Analytics/blob/main/Loan%20repayment%20Report.pdf)_ 
 
     **2.** Create a  _[product performance by Fiscal years](https://github.com/Prathamesh171204/Excel-Sales-Analytics/blob/main/Product%20Performance%20report.pdf)_
+  
     **3.** Create a _[ properties performance report](https://github.com/Prathamesh171204/Excel-Sales-Analytics/blob/main/Properties%20Performance%20report.pdf)
+  
    **4.** Create a _[ Platform weekly Booking report](https://github.com/Prathamesh171204/Excel-Sales-Analytics/blob/main/Platform%20Weekly%20Booking%20report.pdf)
   
 - **Purpose of sales analytics:** Empower businesses to monitor and evaluate their sales activities and performance.
